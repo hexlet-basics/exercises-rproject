@@ -1,0 +1,10 @@
+---
+
+language:
+  docker_image: "ghcr.io/hexlet-basics/exercises-rproject"
+  extension: r
+  exercise_filename: index.r
+  exercise_test_filename: test.r
+  learn_as: first_language
+  progress: in_development
+  name: R
